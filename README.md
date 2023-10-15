@@ -25,9 +25,6 @@
 
 <hr>
 
-### PROJECT
-
-<hr>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kimyebin00&layout=compact)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kimyebin00&show_icons=true&theme=transparent)
