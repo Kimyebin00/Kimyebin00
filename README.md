@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/STYLED COMPONENTS-DB7093?style=flat&logo=styledcomponents&logoColor=white">
   <img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat&logo=mysql&logoColor=white">  
   <br />
-  <p><strong>TOOLS</strong></p>
+  <p><strong>Tools</strong></p>
   <img src="https://img.shields.io/badge/GITHUB-181717?style=flat&logo=GITHUB&logoColor=white">
   <img src="https://img.shields.io/badge/FIGMA-F24E1E?style=flat&logo=FIGMA&logoColor=white">
   <img src="https://img.shields.io/badge/NOTION-000000?style=flat&logo=NOTION&logoColor=white">
