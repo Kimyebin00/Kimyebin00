@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/REACT-61DAFB?style=flat&logo=react&logoColor=white">
   <img src="https://img.shields.io/badge/REACT NATIVE-61DAFB?style=flat&logo=react&logoColor=white">
   <img src="https://img.shields.io/badge/STYLED COMPONENTS-DB7093?style=flat&logo=styledcomponents&logoColor=white">
-  <img src="https://img.shields.io/badge/MYSQL-4479A1?style=flat&logo=mysql&logoColor=white">  
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white">  
   <br />
   <p><strong>Tools</strong></p>
   <img src="https://img.shields.io/badge/GITHUB-181717?style=flat&logo=GITHUB&logoColor=white">
