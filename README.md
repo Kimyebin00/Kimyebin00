@@ -13,6 +13,7 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white">
   <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat&logo=react&logoColor=white">
   <img src="https://img.shields.io/badge/styled components-DB7093?style=flat&logo=styledcomponents&logoColor=white">
+  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat&logo=TailwindCSS&logoColor=white">
   <br />
   <p><strong>Tool</strong></p>
   <img src="https://img.shields.io/badge/Git&Github-181717?style=flat&logo=GITHUB&logoColor=white">
