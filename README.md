@@ -17,8 +17,6 @@
   <p><strong>Tool</strong></p>
   <img src="https://img.shields.io/badge/Git&Github-181717?style=flat&logo=GITHUB&logoColor=white">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=FIGMA&logoColor=white">
-  <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=NOTION&logoColor=white">
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=SLACK&logoColor=white">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=POSTMAN&logoColor=white">
   <img src="https://img.shields.io/badge/Swagger-FF6C37?style=flat&logo=SWAGGER&logoColor=white">
 
