@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/styled components-DB7093?style=flat&logo=styledcomponents&logoColor=white">
   <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat&logo=TailwindCSS&logoColor=white">
   <br />
-  <p><strong>Tool</strong></p>
+  <p><strong>Tools</strong></p>
   <img src="https://img.shields.io/badge/Git&Github-181717?style=flat&logo=GITHUB&logoColor=white">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=FIGMA&logoColor=white">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=POSTMAN&logoColor=white">
